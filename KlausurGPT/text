@@ -1,0 +1,15 @@
+Aufgabe: Erstellen Sie eine Klassenstruktur zur Repräsentation von Fahrzeugen. Definieren Sie eine gemeinsame Oberklasse "Fahrzeug" und zwei spezielle Unterklassen "Auto" und "Fahrrad".
+
+a) Speichern Sie in der Oberklasse "Fahrzeug" die folgenden allgemeinen Eigenschaften für alle Fahrzeuge:
+
+Anzahl der Räder
+Farbe
+Höchstgeschwindigkeit
+b) Speichern Sie in der Unterklasse "Auto" zusätzlich die folgenden speziellen Eigenschaften:
+
+Anzahl der Türen
+Marke
+c) Speichern Sie in der Unterklasse "Fahrrad" zusätzlich die folgende spezielle Eigenschaft:
+
+Rahmengröße
+Achten Sie darauf, welche Methoden und Eigenschaften in die Oberklasse "Fahrzeug" gehören und welche in die Unterklassen "Auto" und "Fahrrad"!
